@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Como a tecnologia influencia a comunicação e as relações sociais na sociedade?]`
 
 ## Objetivo geral
 
@@ -14,18 +14,18 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
+1. `[Identificar as principais tecnologias digitais utilizadas na comunicação e nas relações sociais.]`
+2. `[Analisar como as redes sociais e os aplicativos de mensagens mudaram a forma de interação entre as pessoas.]`
+3. `[Investigar os principais benefícios e desafios do uso da tecnologia nas relações sociais.]`
 4. `[opcional]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Como a tecnologia influencia a comunicação e as relações sociais na sociedade?]` |
+| Objetivo geral | `[Analisar a influência da tecnologia na comunicação e nas relações sociais na sociedade]` |
+| Resultado esperado | `[Mostrar como a tecnologia pode ajudar ou dificultar a comunicação e as relações entre as pessoas]` |
 
 ## Produto da etapa
 
@@ -33,7 +33,7 @@ Um objetivo geral e de três a quatro objetivos específicos.
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x] Os objetivos começam com verbos no infinitivo.
+- [x] O objetivo geral responde ao problema.
+- [x] Os objetivos específicos detalham o objetivo geral.
+- [x] Os objetivos são compatíveis com uma revisão bibliográfica.
