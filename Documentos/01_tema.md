@@ -7,26 +7,26 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[mikael henrique, Sofia Alves, jose leandro]`
+- Data: `[23/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Tecnologia e sociedade]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[A influência da tecnologia na comunicação e nas relações sociais, analisando como o avanço das tecnologias digitais modificou a forma como as pessoas se comunicam e estabelecem relações no cotidiano.]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[Impacto social da tecnologia]`
+- Objeto estudado: `[Relações e comunicações sociais]`
+- Contexto ou aplicação: `[Uso de redes sociais, aplicativos de mensagens e outras plataformas digitais no cotidiano]`
+- Aspecto que será analisado: `[As mudanças na comunicação, na interação social e na forma de estabelecer e manter relações]`
+- O que ficará fora do estudo: `[Desenvolvimento das tecnologias e impactos econômicos ou políticos que não estejam relacionados à comunicação e às relações sociais]`
 
 ### Justificativa
 
