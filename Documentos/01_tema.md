@@ -30,28 +30,27 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[A tecnologia está cada vez mais presente no cotidiano e tem se transformado na maneira como as pessoas se comunicam e estabelecem relações sociais. O uso de redes sociais, aplicativos de mensagens e outras plataformas digitais facilitam a comunicação e aproximam pessoas de diferentes lugares. Essas tecnologias também podem mudar a forma como as pessoas interagem presencialmente. Dessa maneira, estudar essa influência é importante para compreender as mudanças provocadas pelas relações sociais.]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
-
+- Há artigos científicos disponíveis? `[Sim]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim
 ## Produto da etapa
 
 Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O tema é específico.
+- [x] O tema é relevante.
+- [x] O tema é viável.
+- [x] O recorte está claro.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[nome]` | `[Sofia Alves, Mikael Henrique, Jose Leandro]` |
