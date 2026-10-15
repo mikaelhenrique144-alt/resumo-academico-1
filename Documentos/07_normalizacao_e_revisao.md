@@ -6,9 +6,9 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
-* Versão revisada: `[número]`
-* Data: `[dd/mm/aaaa]`
+* Título do artigo: `[Tecnologia, comunicação e relações sociais: o que mostram estudos recentes]`
+* Versão revisada: `[2]`
+* Data: `[23/09/2026]`
 * Responsável pela conferência final: `[preencher]`
 
 ## Revisão científica
